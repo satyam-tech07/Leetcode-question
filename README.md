@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
