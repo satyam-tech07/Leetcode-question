@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
@@ -73,9 +74,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
