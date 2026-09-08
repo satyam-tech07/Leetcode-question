@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
