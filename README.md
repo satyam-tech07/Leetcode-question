@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/satyam-tech07/Leetcode-question/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/satyam-tech07/Leetcode-question/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
