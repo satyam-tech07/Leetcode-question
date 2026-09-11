@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satyam-tech07/Leetcode-question/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/satyam-tech07/Leetcode-question/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/satyam-tech07/Leetcode-question/tree/master/0367-valid-perfect-square) |
 | [3870-count-commas-in-range](https://github.com/satyam-tech07/Leetcode-question/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/satyam-tech07/Leetcode-question/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/satyam-tech07/Leetcode-question/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/satyam-tech07/Leetcode-question/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/satyam-tech07/Leetcode-question/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
