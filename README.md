@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/3498-reverse-degree-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
