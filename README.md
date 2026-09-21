@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-tech07/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
