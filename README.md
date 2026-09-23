@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/satyam-tech07/Leetcode-question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/satyam-tech07/Leetcode-question/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
 |  |
 | ------- |
