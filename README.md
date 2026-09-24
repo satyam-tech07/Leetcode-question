@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyam-tech07/Leetcode-question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam-tech07/Leetcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/satyam-tech07/Leetcode-question/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/satyam-tech07/Leetcode-question/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0509-fibonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam-tech07/Leetcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/satyam-tech07/Leetcode-question/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/satyam-tech07/Leetcode-question/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
