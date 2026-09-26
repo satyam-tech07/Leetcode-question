@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyam-tech07/Leetcode-question/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam-tech07/Leetcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -139,8 +140,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
