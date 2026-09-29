@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/satyam-tech07/Leetcode-question/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/satyam-tech07/Leetcode-question/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/satyam-tech07/Leetcode-question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satyam-tech07/Leetcode-question/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/satyam-tech07/Leetcode-question/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/satyam-tech07/Leetcode-question/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/satyam-tech07/Leetcode-question/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/satyam-tech07/Leetcode-question/tree/master/0367-valid-perfect-square) |
