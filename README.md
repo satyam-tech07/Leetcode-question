@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-tech07/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/satyam-tech07/Leetcode-question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyam-tech07/Leetcode-question/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -143,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -166,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/satyam-tech07/Leetcode-question/tree/master/0258-add-digits) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
