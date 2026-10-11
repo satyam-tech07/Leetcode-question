@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/satyam-tech07/Leetcode-question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyam-tech07/Leetcode-question/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-tech07/Leetcode-question/tree/master/0217-contains-duplicate) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Bubble Sort
 |  |
 | ------- |
