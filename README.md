@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyam-tech07/Leetcode-question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/satyam-tech07/Leetcode-question/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/satyam-tech07/Leetcode-question/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/satyam-tech07/Leetcode-question/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/satyam-tech07/Leetcode-question/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-tech07/Leetcode-question/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-tech07/Leetcode-question/tree/master/1051-height-checker) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-tech07/Leetcode-question/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/satyam-tech07/Leetcode-question/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
